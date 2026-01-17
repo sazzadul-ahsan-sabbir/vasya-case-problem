@@ -18,13 +18,4 @@ A simple C++ solution to decide whether a word should be converted to **uppercas
 * Count uppercase and lowercase letters using a loop
 * Convert the entire string based on the comparison
 
-## Run (C++)
-
-```bash
-g++ main.cpp -o main
-./main
-```
-
----
-
-**Author:** Sazzadul Ahsan
+**Author:** Sazzadul Ahsan Sabbir
