@@ -5,7 +5,7 @@ A simple C++ solution to decide whether a word should be converted to **uppercas
 ## Problem Rule
 
 * If uppercase letters are more than lowercase → convert to **UPPERCASE**
-* Otherwise (lowercase বেশি বা সমান হলে) → convert to **lowercase**
+* Otherwise (lowercase and over or equal) → convert to **lowercase**
 
 ## Examples
 
